@@ -10,338 +10,8 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		cFch0Z69M9JRbrsXbj66ICdvQn0=
+		5JyPuQosGhqLKhuzKeM0uJpAph8=
 		</data>
-		<key>Frameworks/BLTNBoard.framework/BLTNBoard</key>
-		<data>
-		BoBhvioPpIZDFagXyKTtZAYE79o=
-		</data>
-		<key>Frameworks/BLTNBoard.framework/CloseGlyph.png</key>
-		<data>
-		epOBd+8t4Bn781Inmmy2UI7vx8Q=
-		</data>
-		<key>Frameworks/BLTNBoard.framework/CloseGlyph@2x.png</key>
-		<data>
-		nnNYSGUVZhOqqKUwCHgaEO+QXy0=
-		</data>
-		<key>Frameworks/BLTNBoard.framework/CloseGlyph@3x.png</key>
-		<data>
-		xPsLQyTFLi8rdDttTF6BGgn4W+w=
-		</data>
-		<key>Frameworks/BLTNBoard.framework/Info.plist</key>
-		<data>
-		gSufWBXpe6AAXEL2D0NfKQFgmHg=
-		</data>
-		<key>Frameworks/BLTNBoard.framework/_CodeSignature/CodeResources</key>
-		<data>
-		SD9YqeSqkbL+r16Adre/fa5xPhk=
-		</data>
-		<key>Frameworks/BLTNBoard.framework/ar.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nHTauo8Y+fVP9ffAUzlmmDGiqMk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/ca.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			AGjZyHZRHBfcSDUA993MYT5rpSI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/cs.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3kg0GBic0cuAfsbrXt6KVA1dGYk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/da.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TsV8Z7nznHG5LdPsb77WGWwXE4A=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/de.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			s0+y7JaD0TvuZ+H40rVgKfpBWsc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/el.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8zpqe4MGMCLuOpI1E85cXke6xKo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hjj0GQC0i++J7+VwxR9oAg3WMcM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/es.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TC4YKUnHzFgrpWeH0sSBKyPM3Hc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/fi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mVFeI9R36JM3OsQmRlTKvsY3NPQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/fr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IKmVl94kLBcjQA1sd3+xVD4i+Fc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/he.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tm6sysV7AK8FofqGkUUYZ3u8fRY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/hi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WQ/tFeFC/LXYEnQj2ytsqb5Xwyw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/hr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IdmSdlQ9rd6ozB+RIR0bXXkqnwI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/hu.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zo2DepvdwbtfLRIgurHUfPnjItE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/id.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vkfIrZE95+O6d2Vgti4wfjUkgUU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/it.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WHElra5Swle7DbvX8/xPUE8TGyo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/ja.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			u5GGhYGtYTnpna8pCuyMbSDJ3Ao=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/ko.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			m0wyekvzbdc3ohpi0SbB7WM0aFc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/ms.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vkfIrZE95+O6d2Vgti4wfjUkgUU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/nb.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			64lthyjarA3oWaBP3Ugg8zKzw1Y=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/nl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dH9MZJxmbS7jMpQD6vJ3/Lg4H0M=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/pl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			modVtLznCxy6lAJOAZqVhV3Bggg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/pt-BR.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QRH0G6CpWgXlXXzrXvZ5hCWW5ms=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/pt-PT.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QRH0G6CpWgXlXXzrXvZ5hCWW5ms=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/ro.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Vusk5cUT1Ab+2eSj+JyfvVl3cZU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/ru.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SYFIVbDeDNv8a9EGtf8RrbH0kKk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/sk.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yYM34xr1ux69hgXWZntkC6XX/u4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/sv.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			q1M0UmKcHgWaFsoR6TaW3X+Dff0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/th.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xA6pBeVz8t43UGgwzRLBPLInU/E=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/tr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dnSWuJZnYZ1dfM60IqIhQJvdFfU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/uk.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Dn9d8z7kLMBAPX+Nk/l4CRbSuMA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/vi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QAWZm4aMJ7pK1iqHS1fF0r6+Pw0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/zh-Hans.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+iuulRUWdgLT6p3A7ootVn5ZwFU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/zh-Hant.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mk7yi5FIGl/wYMBOGq4gicuBbbg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Headers/OriginalFramework-Swift.h</key>
 		<data>
 		KkVmqRUASVnztNMlnine/PEV2fc=
@@ -360,19 +30,19 @@
 		</data>
 		<key>Input.storyboardc/UIViewController-frl-l2-5Om.nib/objects-13.0+.nib</key>
 		<data>
-		xSLTcAhT/ZXQfMu9xsAOo7V0AtY=
+		bAqdnD69J37Rz5DxmvF92pdHvTY=
 		</data>
 		<key>Input.storyboardc/UIViewController-frl-l2-5Om.nib/runtime.nib</key>
 		<data>
-		VFsOjeSldkLWsX+HKAkeDLU6YXI=
+		Hm7JUxpI7ATJdOnRd706O+r7dC4=
 		</data>
 		<key>Input.storyboardc/frl-l2-5Om-view-OkS-8G-IYy.nib/objects-13.0+.nib</key>
 		<data>
-		0JmB2fy+Ei7p7v1yddxXRDr8Ank=
+		EdC8hByQ9B8yy5QHXTFxDUDwGDM=
 		</data>
 		<key>Input.storyboardc/frl-l2-5Om-view-OkS-8G-IYy.nib/runtime.nib</key>
 		<data>
-		VFOUivmGmZrGlkf4TwZcqT3dusU=
+		JZvTEFm4ns4ib3j65VMf0LCSuBU=
 		</data>
 		<key>Login.storyboardc/Info.plist</key>
 		<data>
@@ -380,19 +50,19 @@
 		</data>
 		<key>Login.storyboardc/UINavigationController-4NM-fl-afj.nib/objects-13.0+.nib</key>
 		<data>
-		Do533hcr4n9zTkNGMZRf6a3Qbq0=
+		aCt53enUeAEv6qlp2gmxeDetwu8=
 		</data>
 		<key>Login.storyboardc/UINavigationController-4NM-fl-afj.nib/runtime.nib</key>
 		<data>
-		huI/fcLhnSBYRVdG/aoNhQB8vEc=
+		ocT5nJtvJtliiJO1l5Pvm7yTaOo=
 		</data>
 		<key>Login.storyboardc/iwG-NB-kDx-view-xUz-83-hTF.nib/objects-13.0+.nib</key>
 		<data>
-		nWiC5BE9vYOTk1j8VDZufDbEweM=
+		4jwtQkS9AYTBa/5SafbqtTm3UkQ=
 		</data>
 		<key>Login.storyboardc/iwG-NB-kDx-view-xUz-83-hTF.nib/runtime.nib</key>
 		<data>
-		b4wrLBpLEh/EK2Z7MztvqsH0dYA=
+		VR6sW1FRfqFdpbK9XbeJH0j2mvo=
 		</data>
 		<key>Modules/OriginalFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -484,356 +154,8 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XZJUiUfeOqq6GQEm7YM/ASvXtQhUhEIZWGmkSiABZxo=
+			cbYfNBhi17ieD8RunzSbaQkqm/Xo/oL3WYivPUp5nt4=
 			</data>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/BLTNBoard</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Y8Z2l2RRwh2snWnpU7buInjsP6H5ks43ZKPtxtdjvlo=
-			</data>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/CloseGlyph.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DV6/NpC2aErXEVnrckp4Sm80BWEMHx9wbREYiukm98I=
-			</data>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/CloseGlyph@2x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XY2iYg70PuHzAx+xMV9LMBCuiY8jgP6YbSW2N5FDAko=
-			</data>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/CloseGlyph@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			G/Vu6JDw0+xdAd5WW6SysjvtdGDo3sw0NjjPs2xeChk=
-			</data>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/0brHQ3APU9csyTC9Qyb4JH4Jko3ZBJMZkBF6h/qxKk=
-			</data>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5qap4QF4rYaxlLm6OkSbUDyi4cVnYqB7ipFu9wuLEF4=
-			</data>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/ar.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			vjvkJ0Aolxo3SULYtauYw0IrXDoBgb2gXdhaINQ+bME=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/ca.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eV87GXqU8519rFyXWyOX1OWK14M9o9aUzrPG/QtD1wo=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/cs.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CPVG0iBw88OJYZhY+3tTtWK9iQkxiM7G907RI/av0GE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/da.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2UguL4RoT4EDeQ4evBwjFFIDUfyoUfn2afL/u3TN3Ao=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/de.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			h1NA0kowwHoHrrSLzQoA9VXG5R7bLCL58aleKTVWKis=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/el.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LEWm3FsS2xBJjowtl/3xgHvUXSJPalYDcAQOIBWp4H8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			m+8Drft97bV1C7d7rpxBZk91AS+caBFhAMGQ1TlH0LE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/es.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UZ8UXJUpxpVfWaTs6TGFDXJzgEyXfWaY2NYihFEyrlM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/fi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			msVct+UMs8uxAIYfe+3TxKRGf0jQOFleOaJ8oacTyrQ=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/fr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			33NsOfWQsv76R8Kbl4IcyhbZI05xPff8wQeMu1XDpIc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/he.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dc0g2Yk+cHEnpWAVi55XU76ntK0G8YBFwyK/flwCxMs=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/hi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2cIxtebHivmGgEfpWTnqXIyGqVs8wBW8DQRXbKG9LWU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/hr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DkjBlBVQ/6JvsWq2gKaCpWBVBGhciKVoleuIePSFfJI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/hu.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cp0v8pLjh+UnpZJUS+ii/AAVmM4FhPjsgdnb/dRe07k=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/id.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JSXblFUHeV36jBkm3JFznP1rFOEVE9qAGP1eZUrqAwE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/it.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qiqtJvgaXNG0dSTh+/jsT7dYyfVPbRKlAHuo552ElZE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/ja.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wglB5CcJBOCe8gg+WRBkl1m3YsgUeWWHzG72rBUmGC0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/ko.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			B2HQutQ100tkZ7Bpay6myskeadrLgDu9FwgPMAbtmYc=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/ms.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JSXblFUHeV36jBkm3JFznP1rFOEVE9qAGP1eZUrqAwE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/nb.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kEOuIZMiUpKUnii0tq8QRILAt1vUZiwKfjLyQOm5n7Q=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/nl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UWflPj9h1c4QLA2xIHpS1+hWhgU2pGYJLHT4Svn1l3Q=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/pl.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dONgaNZ/rTmtZ9YAauV66aI3MCTi8nJARTpaFvvJoCU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/pt-BR.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sOnwQuH2o8fop1NwMwtEdHL7hteICem0BZcLUPxNp90=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/pt-PT.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sOnwQuH2o8fop1NwMwtEdHL7hteICem0BZcLUPxNp90=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/ro.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ypvefe7l3wj7T2KWHaBDMugAYv6O2aybaQ5fI5zHs4E=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/ru.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			x6slqAiL2zUOZxhjUhoSg1mviP5WYsnZYfgvjC1hY5I=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/sk.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TsROvrem7u9xy/1D5mCLWghMJcVO6fpUvTJT1s4BMhI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/sv.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Zp7oobunayoPF9ClFLKZGYhb08El7eVJE59xuVOcFhM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/th.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nhfKDK+fFxUcGvUfTDu/if8okHfhUNDgcidc18X3We4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/tr.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0dBSnLO0OGsoalxMlhIg/8IcNxTWst/vfPrERIp3vJw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/uk.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mRY/9T3HmxCdF4D5/SKEnRZcHlrroorVvgSwR+hpXeI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/vi.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SPekSijE4/WGpHfNwNmDQIU0bpMATVV5eKx9HUUle14=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/zh-Hans.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cG/QHf62ctu9TPZswS50YAXYx9EOeoeQOkiomQqn6wk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/BLTNBoard.framework/zh-Hant.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KIQQQ+w7SMtIqCrodCS4AH+mpr1Ocm56wIWuXvzNURI=
-			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 		<key>Headers/OriginalFramework-Swift.h</key>
 		<dict>
@@ -860,28 +182,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CPXDAXALmuSzF5ZJ8DxCZ6/cNGWzO28uezlrjo2v0CY=
+			lX7FhaWfn5s41FPqwV9X4KtCt6sT8zqsQOtP3xX0+8Q=
 			</data>
 		</dict>
 		<key>Input.storyboardc/UIViewController-frl-l2-5Om.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eEVM/nyHNw8Qw3y1CgGJ/DT5kiOL5tmJwC/Ow5d9uk4=
+			zRZLX7XA9Ltc1AmOoPirCDoRG32Z2DLf8L4PQ+Yj6v0=
 			</data>
 		</dict>
 		<key>Input.storyboardc/frl-l2-5Om-view-OkS-8G-IYy.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GCMfVr+RyHFrfz46PW1yocM9Hto1BdxBeWxtKZ86uP0=
+			uu5Ul6XFJCxLxg10qNUKwaLjdzeayjTdzWzzAezXyz4=
 			</data>
 		</dict>
 		<key>Input.storyboardc/frl-l2-5Om-view-OkS-8G-IYy.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GkZnh+h5FoW7rUGqyv6W/pHD/+xL8Bz4Mnbkt0pTnhM=
+			LXjANqimDcqXwE4qEP3UOifxN6stUwdELIDpeozyAIA=
 			</data>
 		</dict>
 		<key>Login.storyboardc/Info.plist</key>
@@ -895,28 +217,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5qKc1fUY9qtPa7NUH1nrT7kpakNRjmcgq4YzNvTkbOY=
+			tWt9uDcbBeLOAclCiE5mF3/Oj2/t1pITq99y3SyZUoU=
 			</data>
 		</dict>
 		<key>Login.storyboardc/UINavigationController-4NM-fl-afj.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			olY34QrbRpe0XnoXXEQlx/Z4nEFzo+CpAo+7EdOfUsw=
+			MTWBLfqq4bHtmSlWuCJa45l5cE/hnMFtGepsD79P9Gg=
 			</data>
 		</dict>
 		<key>Login.storyboardc/iwG-NB-kDx-view-xUz-83-hTF.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sk6QJMqGo72d3wF8cmxNqMpTdXxISw5G0s7ehc1o14c=
+			Y7+9HaYubxpwN/U1l/NClTJhBTY2Q1LW/TNzkV/DlLo=
 			</data>
 		</dict>
 		<key>Login.storyboardc/iwG-NB-kDx-view-xUz-83-hTF.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6pDvzbUEDymBIkWfm5DhT1JiycDfF+x+6nIw3GxH29o=
+			9xu2CJZ29GS987L7xB3FF02zqEARgTC7OL7Cr/+Z1Hc=
 			</data>
 		</dict>
 		<key>Modules/OriginalFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
